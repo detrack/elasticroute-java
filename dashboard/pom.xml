@@ -1,0 +1,28 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.detrack.elasticroute</groupId>
+        <artifactId>elasticroute</artifactId>
+        <version>1.3</version>
+    </parent>
+
+    <artifactId>dashboard</artifactId>
+
+    <build>
+        <sourceDirectory>../src/main/java</sourceDirectory>
+        <plugins>
+            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.0</version>
+                <configuration>
+                    <release>11</release>
+                </configuration>
+            </plugin>
+        </plugins>
+        <resources>
+            <resource>
+                <directory>../src/main/java/detrack/elasticroute/dashboard/</directory>
+            </resource>
+        </resources>
+    </build>
+</project>
