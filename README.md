@@ -6,7 +6,9 @@
 You have a fleet of just 10 vehicles to serve 500 spots in the city. Some vehicles are only available in the day. Some stops can only be served at night. How would you solve this problem?
 
 You don't need to. Just throw us an array of stops, vehicles and depots and we will do the heavy lifting for you. _Routing as a Service!_
+
 **IMPORTANT NOTE: This will only run on Java 11 and above! If you have lower versions of Java, you need to install JDK 11!**
+
 **BETA RELEASE:** ElasticRoute is completely free-to-use until 30th April 2020!
 
 ## Preface
