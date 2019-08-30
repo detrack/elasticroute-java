@@ -9,8 +9,6 @@ You don't need to. Just throw us an array of stops, vehicles and depots and we w
 
 **IMPORTANT NOTE: This will only run on Java 11 and above! If you have lower versions of Java, you need to install JDK 11!**
 
-**BETA RELEASE:** ElasticRoute is completely free-to-use until 30th April 2020!
-
 ## Preface
 ---
 ElasticRoute offers two APIs depending on your needs, and different sections of this documentation are relevant to you depending on which API you wish to interact with:
