@@ -47,7 +47,7 @@ Regardless of how you use ElasticRoute, this client library is capable of intera
 ```
 ### Plan Instantiation
 To create a plan, you need to create `List<Stop>`, `List<Depot>`, `List<Vehicle`, and `generalSettings`
-For the full list of `generalSettings` please refer to this link ([link1](https://www.elasticroute.com/api-documentation/ "Routing Engine Documentation"))
+For the full list of `generalSettings` please refer to this [link](https://www.elasticroute.com/api-documentation/ "Routing Engine Documentation")
 ```
 // creating a list of stops
 List<Stop> stops = new ArrayList<>();
@@ -149,7 +149,7 @@ Plan.deletePlan("id");
 ## Stop
 
 ### Single Stop
-**Note** : List of fields is specified in the online API documentation ([link5](https://www.elasticroute.com/api-documentation/ "Dashboard Documentation"))
+**Note** : List of fields is specified in the online [API documentation](https://www.elasticroute.com/api-documentation/ "Dashboard Documentation")
 #### Instantiate a Stop
 **Note:** Date format is YYYY-MM-DD
 ```Java
@@ -187,7 +187,7 @@ Stop.deleteStop("stopName", "date");
 ```
 
 ### Bulk Stops
-**Note** : List of fields is specified in the online API documentation ([link2](https://www.elasticroute.com/api-documentation/ "Dashboard Documentation"))
+**Note** : List of fields is specified in the online [API documentation](https://www.elasticroute.com/api-documentation/ "Dashboard Documentation")
 #### Get Stops
 ```Java
 List<Stop> stops = Stop.getStops("date");
@@ -233,7 +233,7 @@ Stop.deleteStops("date");
 ## Vehicle
 
 ### Single Vehicle
-**Note** : List of fields is specified in the online API documentation ([link3](https://www.elasticroute.com/api-documentation/ "Dashboard Documentation"))
+**Note** : List of fields is specified in the online [API documentation](https://www.elasticroute.com/api-documentation/ "Dashboard Documentation")
 #### Instantiate a Vehicle
 ```Java
 Vehicle vehicle = new Vehicle("name");
