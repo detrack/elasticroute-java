@@ -1,3 +1,15 @@
+> ## ⚠️ Archived
+>
+> This repository was archived on **2026-08-11** and is now **read-only**.
+>
+> Last commit to the default branch: **2020-12-04** — 5.7 years before archiving. It was archived as part of an organisation-wide review of dormant
+> repositories. No further changes will be made here.
+>
+> The code remains available to clone and fork. An organisation owner can
+> restore write access via *Settings → General → Danger Zone → Unarchive*.
+
+---
+
 ![ElasticRoute Logo](https://camo.githubusercontent.com/ab4c7e3aa0867de8f1e5fefe44e68b1c452e3001/687474703a2f2f656c6173746963726f7574652e73746167696e672e7770656e67696e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30322f456c61737469632d526f7574652d4c6f676f2d546578742d6f6e2d72696768742d65313535313334343034363830362e706e67)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
